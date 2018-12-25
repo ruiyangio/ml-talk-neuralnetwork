@@ -5,7 +5,7 @@ import C3Chart from 'react-c3js';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { monokaiSublime } from 'react-syntax-highlighter/styles/hljs';
 import '../node_modules/reveal.js/css/reveal.css';
-import '../node_modules/reveal.js/css/theme/moon.css';
+import '../node_modules/reveal.js/css/theme/sky.css';
 import 'c3/c3.css';
 import './App.css';
 
