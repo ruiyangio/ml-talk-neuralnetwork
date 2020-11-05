@@ -1,2 +1,1 @@
-# ml-talk-neuralnetwork
-Talk PPT
+# Ml talk NN
